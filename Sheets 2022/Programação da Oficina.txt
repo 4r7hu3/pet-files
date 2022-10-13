@@ -1,0 +1,13 @@
+1º: "consertar" a tabela fazendo os anos ficarem corretos, dividir a coluna de GolsF/S em duas, criar coluna de pontuação
+
+2º: fazer uma formatação básica da tabela (adicionar bordas, negrito, itálico e centralizar; se preciso, nomear/renomear as colunas)
+
+3º: criar formatações condicionais para as colunas "Pos." e "Saldo"
+
+5º: criar filtros
+
+6º: criar tabelas dinâmicas
+
+7º: criar gráficos
+
+8º: se possível, mostrar funções como "filter" e "importhtml"
