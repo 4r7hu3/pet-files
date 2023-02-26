@@ -1,0 +1,8 @@
+*** ANALYSIS TO BE DONE BY THE DATABASE *** 
+
+1 - Take measurements from 'idade'
+2 - See the frequency of 'escolaridade' and 'renda_familiar'
+3 - groupby 'ocupacao' and count 'obito'
+4 - make a df of 'num_gestacoes', 'num_partos', 'num_abortos' and 'num_cesarias_previas', then, take it's description measures
+5 - groupby 'escolaridade' and count 'obito'
+6 - crosstab 'dificuldade_no_pre_natal' with 'hac', 'tabagismo', 'doencas_cardiacas', 'asma', 'anemia_hemoglobina', 'sindrome_hellp', 'sepse', 'hemorragia_severa', 'internacao_uti'
